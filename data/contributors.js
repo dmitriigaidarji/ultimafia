@@ -124,7 +124,6 @@ const artContributors = {
       "Siren",
       "Angel",
       "Yandere",
-      "Hellhound",
       "Nyarlathotep",
       "Turkey",
       "Tofurkey",
@@ -258,11 +257,14 @@ const artContributors = {
       "Mediator",
       "Drama Queen",
       "Gatekeeper",
+      "Incubus",
       "Moonshine",
       "Ominous Warning",
       "Eclipse",
       "Volcanic Eruption",
       "Lightning Strike",
+      "Feast",
+      "Famine",
     ],
   },
   kirigiri: {
@@ -369,6 +371,8 @@ const artContributors = {
       "Zombie",
       "Parasite",
       "Warden",
+      "Snallygaster",
+      "Weatherman",
     ],
   },
   JaNa: {
@@ -388,10 +392,14 @@ const artContributors = {
       "Magistrate",
       "Braggart",
       "Framer",
+      "Wannabe",
+      "Hellhound",
+      "Theocrat",
     ],
   },
   syn: {
     Mafia: ["Count", "Harpy", "Bawd", "Diplomat", "Associate"],
+    Snake: ["Snake"],
   },
 };
 
